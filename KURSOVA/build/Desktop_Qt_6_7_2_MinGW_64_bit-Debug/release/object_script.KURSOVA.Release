@@ -1,0 +1,11 @@
+release/addbookdialog.o
+release/book.o
+release/editbookdialog.o
+release/graphdialog.o
+release/main.o
+release/topbookdialog.o
+release/moc_addbookdialog.o
+release/moc_editbookdialog.o
+release/moc_graphdialog.o
+release/moc_mainwindow.o
+release/moc_topbookdialog.o

@@ -1,0 +1,11 @@
+debug/addbookdialog.o
+debug/book.o
+debug/editbookdialog.o
+debug/graphdialog.o
+debug/main.o
+debug/topbookdialog.o
+debug/moc_addbookdialog.o
+debug/moc_editbookdialog.o
+debug/moc_graphdialog.o
+debug/moc_mainwindow.o
+debug/moc_topbookdialog.o
